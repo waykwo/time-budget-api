@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  type: 
+  description: MyString
+  status: MyString
+  start_datetime: 2024-10-25 15:14:11
+  end_datetime: 2024-10-25 15:14:11
+  hours_worked: 9.99
+  project: MyString
+
+two:
+  name: MyString
+  type: 
+  description: MyString
+  status: MyString
+  start_datetime: 2024-10-25 15:14:11
+  end_datetime: 2024-10-25 15:14:11
+  hours_worked: 9.99
+  project: MyString

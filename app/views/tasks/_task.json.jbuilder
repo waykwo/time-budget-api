@@ -1,0 +1,9 @@
+json.id task.id
+json.name task.name
+json.task_type task.task_type
+json.description task.description
+json.status task.status
+json.start_datetime task.start_datetime
+json.end_datetime task.end_datetime
+json.hours_worked task.hours_worked
+json.project task.project
